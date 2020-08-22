@@ -1,11 +1,26 @@
 <!-- ABOUT THE PROJECT -->
 ## AllGameOne V2
 
-<iframe src="https://giphy.com/embed/PhHflnPispMn3rRy1y" width="234" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PhHflnPispMn3rRy1y"></a></p>
+All Game One V2 is an Android game hub / launcher This is work in progress but please feel free to help. I am stuck on quite a few things still and I want this to evolve and be open.
 
-All Game One V2 is an Android game hub / launcher.
 
-### Built With
+![Alt Text](https://media.giphy.com/media/PhHflnPispMn3rRy1y/giphy.gif)
+
+### Features
+* Uses fragments
+* FPS Counter can be moved or dismissed.
+* Game Mode to improve performance during gaming.
+* Working user accout framework.
+* Responsive dynamic gui.
+* Splash screen.
+* Sounds effects can be toggled. (Off by default).
+* Game launcher.
+* Stats page with dynamic interface.
+* Twitch player.
+
+
+
+## Built With
 This project was built with;
 * [Android Studio](https://developer.android.com/studio)
 
